@@ -3,3 +3,4 @@
 | Ejercicio   | Breve descripción |
 |-------------|------------------------|
 | [Welcome.java](/tema1/Welcome.java) | Primer programa de java. Muestra un mensaje de bienvenida. |
+| [Ejercicio 1](/tema1/ejercicio1.java) |  |
