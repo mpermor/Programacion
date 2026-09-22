@@ -6,6 +6,8 @@ Este repositorio incluye actividades llevadas a cabo en el módulo Programación
 | --- | --- |
 | [Welcome.java](/tema1/Welcome.java) | Primer programa de java. Muestra un mensaje de bienvenida. |
 | [Ejercicio 1](/tema1/ejercicio1.java) | Ejercicio con println y printf |
+| [Ejercicio 2](/tema1/ejercicio2.java) | Programa que muestra mi nombre por pantalla |
+| [Ejercicio 3](/tema1/ejercicio3.java) | Programa que muestra mi nombre, dirección y número de teléfono por pantalla  |
 
 ## Tema 2 - Programacion Elemental
 | Ejercicio   | Breve descripción |
