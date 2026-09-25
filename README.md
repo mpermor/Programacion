@@ -9,6 +9,7 @@ Este repositorio incluye actividades llevadas a cabo en el módulo Programación
 | [Ejercicio 2](/tema1/ejercicio2.java) | Programa que muestra mi nombre por pantalla |
 | [Ejercicio 3](/tema1/ejercicio3.java) | Programa que muestra mi nombre, dirección y número de teléfono por pantalla  |
 | [Ejercicio 4](/tema1/ejercicio4.java) | Programa que muetra 10 palabras en inglés y en español |
+| [Ejercicio 5](/tema1/ejercicio5.java) | Programa que muestra el horario |
 
 ## Tema 2 - Programacion Elemental
 | Ejercicio   | Breve descripción |
