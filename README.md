@@ -14,5 +14,5 @@ Este repositorio incluye actividades llevadas a cabo en el módulo Programación
 ## Tema 2 - Programacion Elemental
 | Ejercicio   | Breve descripción |
 | --- | --- |
-| Ejercicio 1 | ... |
-| Ejercicio 2 | ... |
+| [CalculaMinutos](/tema2/CalculaMinutos.java) | Programa que pasa segundos a horas y minutos |
+| [ConversorTemperatura](/tema2/ConversorTemperatura.java) | Conversor farenheit a celsius |
