@@ -16,3 +16,4 @@ Este repositorio incluye actividades llevadas a cabo en el módulo Programación
 | --- | --- |
 | [CalculaMinutos](/tema2/CalculaMinutos.java) | Programa que pasa segundos a horas y minutos |
 | [ConversorTemperatura](/tema2/ConversorTemperatura.java) | Conversor farenheit a celsius |
+| [ConversorTemperatura2](/tema2/ConversorTemperatura2.java) | Conversor celsius a farenheit  |
