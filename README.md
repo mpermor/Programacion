@@ -17,3 +17,7 @@ Este repositorio incluye actividades llevadas a cabo en el módulo Programación
 | [CalculaMinutos](/tema2/CalculaMinutos.java) | Programa que pasa segundos a horas y minutos |
 | [ConversorTemperatura](/tema2/ConversorTemperatura.java) | Conversor farenheit a celsius |
 | [ConversorTemperatura2](/tema2/ConversorTemperatura2.java) | Conversor celsius a farenheit  |
+| [Ejercicio 1](/tema2/T2E1.java) | Programa que calcula el salario semanal de un empleado |
+| [Ejercicio 2](/tema2/T2E2.java) | Programa que calcula el volumen de un cono |
+| [Ejercicio 3](/tema2/T2E3.java) | Conversor de MB a KB |
+| [Ejercicio 4](/tema2/T2E4.java) | Conversor de KB a MB |
