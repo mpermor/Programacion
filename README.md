@@ -26,5 +26,12 @@ Este repositorio incluye actividades llevadas a cabo en el módulo Programación
 | Ejercicio   | Breve descripción |
 | --- | --- |
 | [RandomTest](/tema3/RandomTest.java) | Pide el resultado de una suma de dos números aleatorios |
+| [NumeroMayor](/tema3/NumeroMayor.java) | Programa que dice cuál número es mayor |
+| [NumeroMenor](/tema3/NumeroMenor.java) | Programa que dice cuál número es menor |
 | [Bisiesto](/tema3/Bisiesto.java) | Programa que dice si un año es bisiesto |
 | [Divisible](/tema3/Divisible.java) | Programa que dice si un número es divisible entre 2 y 3, solo 2 o 3, o ambos |
+| [Ejercicio 1](/tema3/T3E1.java) | Programa que dice pide un día de la semana y dice qué toca a primera hora |
+| [Ejercicio 2](/tema3/T3E2.java) | Programa que dice buenos días, buenas tardes o buenas noches según la hora que introduzcas |
+| [Ejercicio 3](/tema3/T3E3.java) |  |
+| [Ejercicio 4](/tema3/T3E4.java) |  |
+| [Ejercicio 5](/tema3/T3E5.java) |  |
