@@ -21,3 +21,10 @@ Este repositorio incluye actividades llevadas a cabo en el módulo Programación
 | [Ejercicio 2](/tema2/T2E2.java) | Programa que calcula el volumen de un cono |
 | [Ejercicio 3](/tema2/T2E3.java) | Conversor de MB a KB |
 | [Ejercicio 4](/tema2/T2E4.java) | Conversor de KB a MB |
+
+## Tema 3 - Selecciones
+| Ejercicio   | Breve descripción |
+| --- | --- |
+| [RandomTest](/tema3/RandomTest.java) | Pide el resultado de una suma de dos números aleatorios |
+| [Bisiesto](/tema3/Bisiesto.java) | Programa que dice si un año es bisiesto |
+| [Divisible](/tema3/Divisible.java) | Programa que dice si un número es divisible entre 2 y 3, solo 2 o 3, o ambos |
