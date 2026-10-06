@@ -31,7 +31,7 @@ Este repositorio incluye actividades llevadas a cabo en el módulo Programación
 | [Bisiesto](/tema3/Bisiesto.java) | Programa que dice si un año es bisiesto |
 | [Divisible](/tema3/Divisible.java) | Programa que dice si un número es divisible entre 2 y 3, solo 2 o 3, o ambos |
 | [Ejercicio 1](/tema3/T3E1.java) | Programa que pide un día de la semana y dice qué toca a primera hora |
-| [Ejercicio 2](/tema3/T3E2.java) | Programa que muestra buenos días, buenas tardes o buenas noches según la hora que introduzcas |
+| [Ejercicio 2](/tema3/T3E2.java) | Programa que muestra buenos días, buenas tardes o buenas noches según la hora que se le introduzca |
 | [Ejercicio 3](/tema3/T3E3.java) |  |
 | [Ejercicio 4](/tema3/T3E4.java) |  |
 | [Ejercicio 5](/tema3/T3E5.java) |  |
