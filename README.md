@@ -35,3 +35,8 @@ Este repositorio incluye actividades llevadas a cabo en el módulo Programación
 | [Ejercicio 3](/tema3/T3E3.java) | Programa que dice el horóscopo correspondiente a una fecha |
 | [Ejercicio 4](/tema3/T3E4.java) | Programa que dice si un número es capicúa o no |
 | [Ejercicio 5](/tema3/T3E5.java) |  |
+
+## Tema 4 .- Métodos matemáticos, caracteres y cadenas
+| Ejercicio | Breve descripción |
+| --- | --- |
+| [Ejercicio 1]() |  |
