@@ -36,7 +36,11 @@ Este repositorio incluye actividades llevadas a cabo en el módulo Programación
 | [Ejercicio 4](/tema3/T3E4.java) | Programa que dice si un número es capicúa o no |
 | [Ejercicio 5](/tema3/T3E5.java) | Programa que dice si has aprobado y si no pide si has recuperado |
 
-## Tema 4 .- Métodos matemáticos, caracteres y cadenas
+## Tema 4 - Métodos matemáticos, caracteres y cadenas
 | Ejercicio | Breve descripción |
 | --- | --- |
 | [Baraja](/tema4/Baraja.java) | Muestra una carta al azar de la baraja francesa |
+| [Quiniela](/tema4/Quiniela.java) | Muestra una quiniela al azar |
+| [PalabraAleatoria](/tema4/PalabraAleatoria.java) | Muestra una palabra con letras aleatorias |
+| [Linea](/tema4/Linea.java) | Muestra una linea con caracteres aleatorios |
+| [Linea2](/tema4/Linea2.java) | Muestra una linea con caracteres aleatorios |
