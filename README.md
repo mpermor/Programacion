@@ -39,4 +39,4 @@ Este repositorio incluye actividades llevadas a cabo en el módulo Programación
 ## Tema 4 .- Métodos matemáticos, caracteres y cadenas
 | Ejercicio | Breve descripción |
 | --- | --- |
-| [Ejercicio 1]() |  |
+| [Baraja](/tema4/Baraja.java) | Muestra una carta al azar de la baraja francesa |
