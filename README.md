@@ -44,3 +44,5 @@ Este repositorio incluye actividades llevadas a cabo en el módulo Programación
 | [PalabraAleatoria](/tema4/PalabraAleatoria.java) | Muestra una palabra con letras aleatorias |
 | [Linea](/tema4/Linea.java) | Muestra una linea con caracteres aleatorios |
 | [Linea2](/tema4/Linea2.java) | Muestra una linea con caracteres aleatorios |
+| [PartirNumero](/tema4/PartirNumero.java) | Divide un número en dos partes |
+| [InsertarDigito](/tema4/InsertarDigito.java) | Inserta un dígito a un número |
