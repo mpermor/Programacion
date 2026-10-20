@@ -3,12 +3,30 @@ import java.util.Scanner;
 public class Numero2a7digitos {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        String numero;
+        String num;
         System.out.println("Introduce un número de 2 a 7 dígitos");
-        numero = sc.nextLine();
-        if(numero.length() < 2)
-            System.out.println("Número muy corto");
-        else if (numero.length() > 7)
-            System.out.println("Número muy largo");
+        num = sc.nextLine();
+        char ch;
+        boolean digitos = true;
+        int i = 0;
+        while (i < num.length()) {
+            ch = num.charAt(i);
+            if (!Character.isDigit(ch))
+                digitos = false;
+            i++;
+        }
+        if (digitos) {
+            System.out.println("El número está formado por dígitos");
+        } else {
+            System.out.println("El número no está formado por dígitos");
+        }
+        if(num.length() < 2)
+            System.out.println("El número tiene menos de 2 dígitos");
+        else if (num.length() > 7)
+            System.out.println("El número tiene más de 7 dígitos");
+        else
+            System.out.println("El número tiene entre 2 y 7 dígitos");
+
+        sc.close();
     }
 }
