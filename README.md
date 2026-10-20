@@ -2,7 +2,7 @@
 Este repositorio incluye actividades llevadas a cabo en el módulo Programación
 
 ## Tema 1 - Introducción a las computadoras, a los programas y Java
-| Ejercicio   | Breve descripción |
+| Ejercicio | Breve descripción |
 | --- | --- |
 | [Welcome.java](/tema1/Welcome.java) | Primer programa de java. Muestra un mensaje de bienvenida. |
 | [Ejercicio 1](/tema1/ejercicio1.java) | Ejercicio con println y printf |
@@ -12,7 +12,7 @@ Este repositorio incluye actividades llevadas a cabo en el módulo Programación
 | [Ejercicio 5](/tema1/ejercicio5.java) | Programa que muestra el horario |
 
 ## Tema 2 - Programacion Elemental
-| Ejercicio   | Breve descripción |
+| Ejercicio | Breve descripción |
 | --- | --- |
 | [CalculaMinutos](/tema2/CalculaMinutos.java) | Programa que pasa segundos a horas y minutos |
 | [ConversorTemperatura](/tema2/ConversorTemperatura.java) | Conversor farenheit a celsius |
@@ -23,7 +23,7 @@ Este repositorio incluye actividades llevadas a cabo en el módulo Programación
 | [Ejercicio 4](/tema2/T2E4.java) | Conversor de KB a MB |
 
 ## Tema 3 - Selecciones
-| Ejercicio   | Breve descripción |
+| Ejercicio | Breve descripción |
 | --- | --- |
 | [RandomTest](/tema3/RandomTest.java) | Pide el resultado de una suma de dos números aleatorios |
 | [NumeroMayor](/tema3/NumeroMayor.java) | Programa que dice cuál número es mayor |
@@ -46,3 +46,8 @@ Este repositorio incluye actividades llevadas a cabo en el módulo Programación
 | [Linea2](/tema4/Linea2.java) | Muestra una linea con caracteres aleatorios |
 | [PartirNumero](/tema4/PartirNumero.java) | Divide un número en dos partes |
 | [InsertarDigito](/tema4/InsertarDigito.java) | Inserta un dígito a un número |
+| [InsertarMitad](/tema4/InsertarMitad.java) | Inserta <> en la mitad de una cadena |
+| [DividirA](/tema4/DividirA.java) | Divide una palabra por la letra A |
+| [Notas](/tema4/Notas.java) | Redondea con un decimal al alza y a la baja unas notas y luego calcula la media, el máximo y el mínimo |
+| [Numero2a7digitos](/tema4/Numero2a7digitos.java) | Comprueba si un número tiene de 2 a 7 dígitos |
+| [NombreYApellidos](/tema4/NombreYApellidos.java) | Divide nombre, apellido 1 y apellido 2 |
