@@ -51,3 +51,8 @@ Este repositorio incluye actividades llevadas a cabo en el módulo Programación
 | [Notas](/tema4/Notas.java) | Redondea con un decimal al alza y a la baja unas notas y luego calcula la media, el máximo y el mínimo |
 | [Numero2a7digitos](/tema4/Numero2a7digitos.java) | Comprueba si un número tiene de 2 a 7 dígitos |
 | [NombreYApellidos](/tema4/NombreYApellidos.java) | Divide nombre, apellido 1 y apellido 2 |
+
+## Tema 5 - Bucles
+| Ejercicio | Breve descripción |
+| --- | --- |
+| []() |  |
