@@ -59,5 +59,5 @@ Este repositorio incluye actividades llevadas a cabo en el módulo Programación
 | [TablaDelNueve](/tema5/TablaDelNueve.java) | Muestra la tabla de multiplicar del 9 (del 1 al 10) usando un for |
 | [Notas](/tema5/Notas.java) | Convierte una nota numérica en su calificación textual |
 | [](/tema5/Notas.java) | Imprime una escalera de números |
-| [](/tema5/Notas.java) | Imprima todos los números primos del 1 al 50 |
+| [](/tema5/Notas.java) | Imprime todos los números primos del 1 al 50 |
 | [](/tema5/Notas.java) | Suma números enteros introducidos por el usuario hasta que escriba 0. Muestra la suma final. |
