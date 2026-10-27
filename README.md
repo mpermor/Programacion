@@ -62,4 +62,4 @@ Este repositorio incluye actividades llevadas a cabo en el módulo Programación
 | [EscaleraNumerosInversa](/tema5/EscaleraNumerosInversa.java) | Imprime una escalera de números inversa |
 | [PiramideNumeros](/tema5/PiramideNumeros.java) | Imprime una pirámide de números |
 | [Primos](/tema5/Primos.java) | Imprime todos los números primos del 1 al 50 |
-| [Suma](/tema5/Suma.java) | Suma números enteros introducidos por el usuario hasta que escriba 0. Muestra la suma final. |
+| [Suma](/tema5/Suma.java) | Suma números enteros introducidos por el usuario hasta que escriba 0 y luego muestra la suma final. |
