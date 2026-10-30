@@ -63,3 +63,6 @@ Este repositorio incluye actividades llevadas a cabo en el módulo Programación
 | [PiramideNumeros](/tema5/PiramideNumeros.java) | Imprime una pirámide de números |
 | [Primos](/tema5/Primos.java) | Imprime todos los números primos del 1 al 50 |
 | [Suma](/tema5/Suma.java) | Suma números enteros introducidos por el usuario hasta que escriba 0 y luego muestra la suma final. |
+| [Pares](/tema5/Pares.java) |  |
+| [Contar Cifras](/tema5/ContarCifras.java) |  |
+| [EsPrimo](/tema5/EsPrimo.java) |  |
