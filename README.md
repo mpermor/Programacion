@@ -66,3 +66,5 @@ Este repositorio incluye actividades llevadas a cabo en el módulo Programación
 | [Pares](/tema5/Pares.java) | Pide un número entero al usuario y muestra todos los números pares comprendidos entre 1 y ese número |
 | [Contar Cifras] | Pide un número entero positivo y calcula cuántas cifras tiene sin convertirlo a texto. |
 | [EsPrimo](/tema5/EsPrimo.java) | Muestra si un número introducido es primo o no |
+| [] | Pide al usuario el número de filas y columnas y dibuja un rectángulo de asteriscos |
+| [] | Pide un número N y muestra un cuadrado de N filas y N columnas con números del 1 al N en cada fila |
