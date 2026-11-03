@@ -64,7 +64,10 @@ Este repositorio incluye actividades llevadas a cabo en el módulo Programación
 | [Primos](/tema5/Primos.java) | Imprime todos los números primos del 1 al 50 |
 | [Suma](/tema5/Suma.java) | Suma números enteros introducidos por el usuario hasta que escriba 0 y luego muestra la suma final. |
 | [Pares](/tema5/Pares.java) | Pide un número entero al usuario y muestra todos los números pares comprendidos entre 1 y ese número |
-| [Contar Cifras] | Pide un número entero positivo y calcula cuántas cifras tiene sin convertirlo a texto. |
+| [Contar Cifras](/tema5/ContarCifras.java) | Pide un número entero positivo y calcula cuántas cifras tiene sin convertirlo a texto. |
 | [EsPrimo](/tema5/EsPrimo.java) | Muestra si un número introducido es primo o no |
-| [] | Pide al usuario el número de filas y columnas y dibuja un rectángulo de asteriscos |
-| [] | Pide un número N y muestra un cuadrado de N filas y N columnas con números del 1 al N en cada fila |
+| [RectanguloAsteriscos](/tema5/RectanguloAsteriscos.java) | Pide al usuario el número de filas y columnas y dibuja un rectángulo de asteriscos |
+| [CuadradoNumerico](/tema5CuadradoNumerico.java) | Pide un número N y muestra un cuadrado de N filas y N columnas con números del 1 al N en cada fila |
+| [CuadradoNumericoDescendente](/tema5CuadradoNumericoDescendente.java) | Pide un número N y muestra un cuadrado de N filas y N columnas con números del 1 al N en cada fila |
+| [CuadradoNumerico ascendente y descendente](/tema5CuadradoNumerico3.java) | Pide un número N y muestra un cuadrado de N filas y N columnas con números del 1 al N en cada fila |
+| [MatrizNumeros](/tema5/MatrizNumeros.java) | Pide un número N y muestra un cuadrado de N filas y N columnas con números del 1 al N en cada fila |
