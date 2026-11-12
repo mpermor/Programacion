@@ -71,3 +71,10 @@ Este repositorio incluye actividades llevadas a cabo en el módulo Programación
 | [CuadradoNumericoDescendente](/tema5CuadradoNumericoDescendente.java) | Pide un número N y muestra un cuadrado de N filas y N columnas con números del 1 al N en cada fila |
 | [CuadradoNumerico ascendente y descendente](/tema5CuadradoNumerico3.java) | Pide un número N y muestra un cuadrado de N filas y N columnas con números del 1 al N en cada fila |
 | [MatrizNumeros](/tema5/MatrizNumeros.java) | Pide un número N y muestra un cuadrado de N filas y N columnas con números del 1 al N en cada fila |
+
+## Tema 6 - Métodos
+| Ejercicio | Breve descripción |
+| --- | --- |
+| [BibliotecaMatematicas](/tema6/BibliotecaMatematicas.java) |  |
+| [Maximo](/tema6/Maximo.java) |  |
+| [Maximo3numeros](/tema6/Maximo3numeros.java) |  |
