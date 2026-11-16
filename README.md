@@ -68,8 +68,8 @@ Este repositorio incluye actividades llevadas a cabo en el módulo Programación
 | [EsPrimo](/tema5/EsPrimo.java) | Muestra si un número introducido es primo o no |
 | [RectanguloAsteriscos](/tema5/RectanguloAsteriscos.java) | Pide al usuario el número de filas y columnas y dibuja un rectángulo de asteriscos |
 | [CuadradoNumerico](/tema5CuadradoNumerico.java) | Pide un número N y muestra un cuadrado de N filas y N columnas con números del 1 al N en cada fila |
-| [CuadradoNumericoDescendente](/tema5CuadradoNumericoDescendente.java) | Pide un número N y muestra un cuadrado de N filas y N columnas con números del 1 al N en cada fila |
-| [CuadradoNumerico ascendente y descendente](/tema5CuadradoNumerico3.java) | Pide un número N y muestra un cuadrado de N filas y N columnas con números del 1 al N en cada fila |
+| [CuadradoNumericoDescendente](/tema5CuadradoNumericoDescendente.java) | Lo mismo que el anterior pero en orden descendente |
+| [CuadradoNumerico ascendente y descendente](/tema5CuadradoNumerico3.java) | Lo mismo que el anterior pero en orden descendente y ascendente al mismo tiempo |
 | [MatrizNumeros](/tema5/MatrizNumeros.java) | Pide un número N y muestra un cuadrado de N filas y N columnas con números del 1 al N en cada fila |
 
 ## Tema 6 - Métodos
