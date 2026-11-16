@@ -75,6 +75,9 @@ Este repositorio incluye actividades llevadas a cabo en el módulo Programación
 ## Tema 6 - Métodos
 | Ejercicio | Breve descripción |
 | --- | --- |
-| [BibliotecaMatematicas](/tema6/BibliotecaMatematicas.java) |  |
-| [Maximo](/tema6/Maximo.java) |  |
-| [Maximo3numeros](/tema6/Maximo3numeros.java) |  |
+| [BibliotecaMatematicas](/tema6/BibliotecaMatematicas.java) | biblioteca de funciones matemáticas |
+| [Maximo](/tema6/Maximo.java) | Método que calcula el máximo de dos números |
+| [Maximo3numeros](/tema6/Maximo3numeros.java) | Método que calcula el máximo de tres números |
+| [VolumenCilindro](/tema6/VolumenCilindro.java) | Método que calcula el volumen de un cilindro |
+| [DivisoresPrimos](/tema6/DivisoresPrimos.java) | Método que devuelve el número de divisores primos que tiene un número |
+
