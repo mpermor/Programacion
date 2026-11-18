@@ -81,3 +81,13 @@ Este repositorio incluye actividades llevadas a cabo en el módulo Programación
 | [VolumenCilindro](/tema6/VolumenCilindro.java) | Método que calcula el volumen de un cilindro |
 | [DivisoresPrimos](/tema6/DivisoresPrimos.java) | Método que devuelve el número de divisores primos que tiene un número |
 
+
+## Tema 7 - Matrices Unidimensionales
+| Ejercicio | Breve descripción |
+| --- | --- |
+| [ArrayNumeros](/tema7/ArrayNumeros.java) | rellena un array con los 100 primeros números enteros en orden ascendente y los muestra en pantalla. |
+| [ArrayNumerosDescendente](/tema7/ArrayNumerosDescendente.java) | rellena un array con los 100 primeros números enteros en orden descendente y los muestra en pantalla. |
+| [ArrayPares](/tema7/ArrayPares.java) | rellena un array con los  números pares comprendidos entre 1 y 100 en orden ascendente y los muestra en pantalla. |
+|  | rellena un array con los números impares comprendidos entre 1 y 100 en orden ascendente y los muestra en pantalla. |
+|  | rellena un array con los números primos comprendidos entre 1 y 100 en orden ascendente y los muestra en pantalla. Y un método que indica si un número entero es primo o no lo es. |
+| | lee 10 números por teclado, los almacene en un array y muestra los números insertados en orden inverso. |
