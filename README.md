@@ -88,8 +88,8 @@ Este repositorio incluye actividades llevadas a cabo en el módulo Programación
 | [ArrayNumeros](/tema7/ArrayNumeros.java) | rellena un array con los 100 primeros números enteros en orden ascendente y los muestra en pantalla. |
 | [ArrayNumerosDescendente](/tema7/ArrayNumerosDescendente.java) | rellena un array con los 100 primeros números enteros en orden descendente y los muestra en pantalla. |
 | [ArrayPares](/tema7/ArrayPares.java) | rellena un array con los  números pares comprendidos entre 1 y 100 en orden ascendente y los muestra en pantalla. |
-|  | rellena un array con los números impares comprendidos entre 1 y 100 en orden ascendente y los muestra en pantalla. |
-|  | rellena un array con los números primos comprendidos entre 1 y 100 en orden ascendente y los muestra en pantalla. Y un método que indica si un número entero es primo o no lo es. |
+| [ArrayImpares](/tema7/ArrayImpares.java) | rellena un array con los números impares comprendidos entre 1 y 100 en orden ascendente y los muestra en pantalla. |
+| [ArrayPrimos](/tema7/ArrayPrimos.java) | rellena un array con los números primos comprendidos entre 1 y 100 en orden ascendente y los muestra en pantalla. Y un método que indica si un número entero es primo o no lo es. |
 | | lee 10 números por teclado, los almacene en un array y muestra los números insertados en orden inverso. |
 | | lee 10 números por teclado, los almacene en un array y muestre la suma, resta, multiplicación y división de todos |
 | | rellene un array con los 100 primeros números pares y muestre su suma. |
