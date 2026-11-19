@@ -4,12 +4,12 @@ public class VolumenCilindro {
     
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        int radio;
-        int altura;
+        double radio;
+        double altura;
         System.out.print("Introduce el radio: ");
-        radio = sc.nextInt();
+        radio = sc.nextDouble();
         System.out.print("Introduce la altura: ");
-        altura = sc.nextInt();
+        altura = sc.nextDouble();
         System.out.println("El volumen del cilindro es " + volumencilindro(radio, altura));
         sc.close();
     }
