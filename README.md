@@ -80,6 +80,8 @@ Este repositorio incluye actividades llevadas a cabo en el módulo Programación
 | [Maximo3numeros](/tema6/Maximo3numeros.java) | Método que calcula el máximo de tres números |
 | [VolumenCilindro](/tema6/VolumenCilindro.java) | Método que calcula el volumen de un cilindro |
 | [DivisoresPrimos](/tema6/DivisoresPrimos.java) | Método que devuelve el número de divisores primos que tiene un número |
+| [NumerosAmigos](/tema6/NumerosAmigos.java) | Muestra si dos números son amigos |
+| [DiaSemana](/tema6/DiaSemana.java) | Calcula el día de la semana dado un día, mes y año |
 
 
 ## Tema 7 - Matrices Unidimensionales
