@@ -8,7 +8,7 @@ public class ArrayTeclado {
             System.out.print("Escribe un número: ");
             numeros[i] = sc.nextInt();
         }
-        for(int i = 0; i < 10; i++){
+        for(int i = 9; i >= 0; i--){
             System.out.println(numeros[i]);
         }
     }
