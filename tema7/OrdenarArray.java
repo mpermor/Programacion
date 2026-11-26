@@ -12,7 +12,7 @@ public class OrdenarArray {
         java.util.Arrays.sort(numeros);
 
         for(int i = 0; i < 10; i++){
-            System.out.println(numeros[i]);
+            System.out.print(numeros[i] + " ");
         }
     }
 }

@@ -22,7 +22,7 @@ public class VariosArrays {
         }
 
         for(int i = 0; i < 10; i++){
-            System.out.println(array3[i]);
+            System.out.print(array3[i] + " ");
         }
 
         sc.close();

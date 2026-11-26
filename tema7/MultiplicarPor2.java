@@ -15,7 +15,7 @@ public class MultiplicarPor2 {
         
         //mostrar por pantalla
         for(int i = 0; i < 5; i++){
-            System.out.println(multiplicado[i]);
+            System.out.print(multiplicado[i] + " ");
         }
 
         sc.close();

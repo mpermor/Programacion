@@ -20,7 +20,7 @@ public class MultiplicarPor2EnOtroArray {
         Arrays.sort(ordenados);
         //mostrar por pantalla
         for(int i = 0; i < 5; i++){
-            System.out.println(ordenados[i]);
+            System.out.print(ordenados[i] + " ");
         }
 
         sc.close();
