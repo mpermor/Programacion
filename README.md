@@ -92,15 +92,15 @@ Este repositorio incluye actividades llevadas a cabo en el módulo Programación
 | [ArrayPares](/tema7/ArrayPares.java) | rellena un array con los  números pares comprendidos entre 1 y 100 en orden ascendente y los muestra en pantalla. |
 | [ArrayImpares](/tema7/ArrayImpares.java) | rellena un array con los números impares comprendidos entre 1 y 100 en orden ascendente y los muestra en pantalla. |
 | [ArrayPrimos](/tema7/ArrayPrimos.java) | rellena un array con los números primos comprendidos entre 1 y 100 en orden ascendente y los muestra en pantalla. Y un método que indica si un número entero es primo o no lo es. |
-| | lee 10 números por teclado, los almacene en un array y muestra los números insertados en orden inverso. |
-| | lee 10 números por teclado, los almacene en un array y muestre la suma, resta, multiplicación y división de todos |
-| | rellene un array con los 100 primeros números pares y muestre su suma. |
-| | lea 10 números por teclado, los almacene en un array y muestre la media. |
-| | lea 10 números por teclado, los almacene en un array y los ordene de forma ascendente. |
-| | lee 10 números por teclado, 5 para un array y 5 para otro array distinto. Crea un tercer array donde se almacenen los dos array anteriores y muestras 10 números en pantalla mediante este último array. |
-| | lee 5 números por teclado, los copie a otro array multiplicados por 2 y muestre el segundo array. |
-| | lea 5 números por teclado, los copie a otro array multiplicados por 2 y los muestre todos ordenados usando un tercer array. |
-| | mediante un array almacene números tanto positivos como negativos y los muestre ordenados. |
+| [ArrayNumerosDescendente](/tema7/ArrayNumerosDescendente.java) | lee 10 números por teclado, los almacene en un array y muestra los números insertados en orden inverso. |
+| [OperacionesArray](/tema7/OperacionesArray.java) | lee 10 números por teclado, los almacene en un array y muestre la suma, resta, multiplicación y división de todos |
+| [ArrayParesSuma](/tema7/ArrayParesSuma.java) | rellene un array con los 100 primeros números pares y muestre su suma. |
+| [ArrayMedia](/tema7/ArrayMedia.java) | lea 10 números por teclado, los almacene en un array y muestre la media. |
+| [OrdenarArray](/tema7/OrdenarArray.java) | lea 10 números por teclado, los almacene en un array y los ordene de forma ascendente. |
+| [VariosArrays](/tema7/VariosArrays.java) | lee 10 números por teclado, 5 para un array y 5 para otro array distinto. Crea un tercer array donde se almacenen los dos array anteriores y muestras 10 números en pantalla mediante este último array. |
+| [MultiplicarPor2](/tema7/MultiplicarPor2.java) | lee 5 números por teclado, los copie a otro array multiplicados por 2 y muestre el segundo array. |
+| [MultiplicarPor2EnOtroArray](/tema7/MultiplicarPor2EnOtroArray.java) | lea 5 números por teclado, los copie a otro array multiplicados por 2 y los muestre todos ordenados usando un tercer array. |
+| [OrdenarArray](/tema7/OrdenarArray.java) | mediante un array almacene números tanto positivos como negativos y los muestre ordenados. |
 | | rellene un array con 20 números y luego busque un número concreto. |
 | | lea una cadena y la muestre al revés. |
 | | lea una cadena y diga cuantas vocales hay. |
