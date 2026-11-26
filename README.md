@@ -101,12 +101,12 @@ Este repositorio incluye actividades llevadas a cabo en el módulo Programación
 | [MultiplicarPor2](/tema7/MultiplicarPor2.java) | lee 5 números por teclado, los copie a otro array multiplicados por 2 y muestre el segundo array. |
 | [MultiplicarPor2EnOtroArray](/tema7/MultiplicarPor2EnOtroArray.java) | lea 5 números por teclado, los copie a otro array multiplicados por 2 y los muestre todos ordenados usando un tercer array. |
 | [OrdenarArray](/tema7/OrdenarArray.java) | mediante un array almacene números tanto positivos como negativos y los muestre ordenados. |
-| | rellene un array con 20 números y luego busque un número concreto. |
-| | lea una cadena y la muestre al revés. |
-| | lea una cadena y diga cuantas vocales hay. |
-| | lea una cadena y diga cuantas mayúsculas hay. |
-| | El cifrado del cesar: Lea una cadena y la encripte sumando 3 al código ASCII de cada carácter. Mostrar por pantalla. Crea un método para encriptar y otro para desencriptar. |
-| | Un vector de caracteres de 100 elementos está cargado con vocales de manera aleatoria. Contar e imprimir el número de veces que aparece cada vocal. Nota: se puede utilizar un vector de frecuencias de repetición para las 5 vocales. |
-| | Un vector de 30 elementos contiene los nombres de 30 empleados y otro de similares características las horas trabajadas por cada uno de ellos. Si la hora se paga a 20 €., calcular e imprimir lo que cobrará cada uno de ellos. |
-| | Si disponemos de los 2 vectores del ejercicio anterior, calcula y muestra por pantalla
+| [ArrayBuscar](/tema7/ArrayBuscar.java) | rellene un array con 20 números y luego busque un número concreto. |
+| [InvertirCadena] | lea una cadena y la muestre al revés. |
+| [ContarVocales] | lea una cadena y diga cuantas vocales hay. |
+| [ContarMayusculas] | lea una cadena y diga cuantas mayúsculas hay. |
+|  | El cifrado del cesar: Lea una cadena y la encripte sumando 3 al código ASCII de cada carácter. Mostrar por pantalla. Crea un método para encriptar y otro para desencriptar. |
+|  | Un vector de caracteres de 100 elementos está cargado con vocales de manera aleatoria. Contar e imprimir el número de veces que aparece cada vocal. Nota: se puede utilizar un vector de frecuencias de repetición para las 5 vocales. |
+|  | Un vector de 30 elementos contiene los nombres de 30 empleados y otro de similares características las horas trabajadas por cada uno de ellos. Si la hora se paga a 20 €., calcular e imprimir lo que cobrará cada uno de ellos. |
+|  | Si disponemos de los 2 vectores del ejercicio anterior, calcula y muestra por pantalla
 el empleado que más gana y el que menos gana. |
