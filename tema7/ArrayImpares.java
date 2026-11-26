@@ -11,7 +11,7 @@ public class ArrayImpares {
             j++;
         }
         for(int k = 0; k < 50; k++){
-            System.out.println(numeros[k]);
+            System.out.print(numeros[k] + " ");
         }
     }
 }
